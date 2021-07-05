@@ -6,7 +6,7 @@ import { Routes } from './routes';
 export default function App() {
   return (
     <Router>
-      <Routes />
+        <Routes />
     </Router>
   );
 }
