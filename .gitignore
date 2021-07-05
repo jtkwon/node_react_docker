@@ -1,0 +1,30 @@
+node_modules
+
+# log
+*.log
+*.log*
+logs
+npm-debug.log*
+
+# DS
+.DS_Store
+
+# TESTS
+coverage/
+
+# IDE
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# PRODUCTION
+build
+www
+dist
+
+# ENV
+.ENV
+
+# KEYS
+.pem
